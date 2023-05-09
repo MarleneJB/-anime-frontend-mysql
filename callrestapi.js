@@ -1,4 +1,4 @@
-var url="https://animesmysql-service-marlenejb.cloud.okteto.net/";
+var url="https://animesmysql-service-marlenejb.cloud.okteto.net";
 
 function postAnime(){
     console.log(url);
